@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='pyconfiguration',
-    version='0.1.0',
+    version='0.1.1',
     description="Work with config files",
     long_description=readme + '\n\n' + history,
     author="Brother Rain",

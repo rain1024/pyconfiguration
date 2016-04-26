@@ -3,13 +3,13 @@ Python Configuration
 ===============================
 
 .. image:: https://img.shields.io/pypi/v/python_configuration.svg
-        :target: https://pypi.python.org/pypi/python_configuration
+        :target: https://pypi.python.org/pypi/pyconfiguration
 
 .. image:: https://img.shields.io/travis/rain1024/python_configuration.svg
-        :target: https://travis-ci.org/rain1024/python_configuration
+        :target: https://travis-ci.org/rain1024/pyconfiguration
 
 .. image:: https://readthedocs.org/projects/python_configuration/badge/?version=latest
-        :target: https://readthedocs.org/projects/python_configuration/?badge=latest
+        :target: https://readthedocs.org/projects/pyconfiguration/?badge=latest
         :alt: Documentation Status
 
 
